@@ -1,0 +1,10 @@
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\bin\x86\Debug\QuickLard.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\bin\x86\Debug\QuickLard.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\obj\x86\Debug\QuickLard.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\obj\x86\Debug\QuickLard.exe
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\obj\x86\Debug\QuickLard.pdb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\bin\x86\Debug\Content\Cars\defaultCar.xnb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\bin\x86\Debug\Content\Particles\dot.xnb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\bin\x86\Debug\Content\Particles\air.xnb
+C:\Users\Nico\Documents\Visual Studio 2010\Projects\QuickLard\QuickLard\QuickLard\bin\x86\Debug\Content\Particles\circle.xnb
